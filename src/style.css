@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto+Slab:wght@300&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+main {
+  width: 100vw;
+}
+
+.root-layout {
+  width: 100vw;
+}
+.root-layout nav {
+  height: 10vh;
+  width: 100%;
+  background-color: #84947b;
+}
+.root-layout footer {
+  height: 10vh;
+  width: 100%;
+  background-color: #84947b;
+}
+
+.homeImg {
+  width: 100%;
+  height: 20vh;
+}
+.homeImg img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
